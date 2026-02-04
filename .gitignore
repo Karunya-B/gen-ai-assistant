@@ -13,3 +13,4 @@ vectors_store/
 # OS
 .DS_Store
 Thumbs.db
+.env
